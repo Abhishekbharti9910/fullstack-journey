@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekbharti-dev/the-odin-project-journal/main/screenshots/fullstack-illustration.png" width="300" alt="Fullstack dev" />
+  <img src="[https://raw.githubusercontent.com/abhishekbharti-dev/the-odin-project-journal/main/screenshots/fullstack-illustration.png](https://avatars.githubusercontent.com/u/59837929?v=4)" width="300" alt="Fullstack dev" />
 </p>
 
 ---
